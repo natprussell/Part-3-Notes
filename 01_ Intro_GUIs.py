@@ -14,6 +14,6 @@ btn2.grid(row=1, column=2)
 # by adding ttk.button it creates a themed button 
 
 
-root.mainloop()
+root.mainloop() 
 
 
