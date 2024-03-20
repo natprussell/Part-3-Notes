@@ -16,10 +16,10 @@ frame2= ttk.Frame(root, relief=SOLID, padding=(12,35))
 frame2.grid()
 
 btn3= ttk.Button(frame2, text= "Button 3")
-btn3.grid()
+btn3.pack()
 
 btn4= ttk.Button(frame2, text= "Button 4")
-btn4.grid()
+btn4.pack()
 
 
 root.mainloop()
